@@ -1,0 +1,25 @@
+{
+  "_comment": "Synthetic sample data — no real personal information. Safe to commit.",
+
+  "propertyName": "Mohali Luxury Residency",
+  "location":     "Mohali, Punjab",
+  "price":        "₹1.25 Crore onwards",
+  "propertyType": "Premium Residential Apartments",
+
+  "features": [
+    "Spacious luxury living rooms with premium interiors",
+    "State-of-the-art modular kitchen",
+    "Master bedroom with walk-in wardrobe",
+    "Designer bathrooms with imported fittings",
+    "Private balconies with panoramic city views",
+    "Covered parking and 24×7 security",
+    "Landscaped gardens and community spaces"
+  ],
+
+  "description":  "A beautifully designed premium residential community in the heart of Mohali, Punjab. Each apartment offers luxury finishes, modern amenities, and stunning city views in a ready-to-move-in status.",
+  "contactText":  "Call us today to schedule a private site visit",
+
+  "agentName":    "Rahul Arora",
+  "agentPhone":   "+91 98140 55555",
+  "agentEmail":   "rahul@mohaliresidency.example.com"
+}

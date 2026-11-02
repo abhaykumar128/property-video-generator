@@ -1,0 +1,36 @@
+# ─── Dependencies ───────────────────────────────────────────────
+node_modules/
+.pnp
+.pnp.js
+
+# ─── Environment variables (NEVER commit real keys) ─────────────
+.env
+.env.local
+.env.*.local
+
+# ─── Build outputs ───────────────────────────────────────────────
+dist/
+build/
+frontend/dist/
+
+# ─── Runtime uploads and generated videos ────────────────────────
+backend/uploads/*
+backend/outputs/*
+# Keep the folders themselves in git
+!backend/uploads/.gitkeep
+!backend/outputs/.gitkeep
+
+# ─── Logs ────────────────────────────────────────────────────────
+logs/
+*.log
+npm-debug.log*
+
+# ─── OS / Editor ─────────────────────────────────────────────────
+.DS_Store
+Thumbs.db
+.vscode/settings.json
+.idea/
+
+# ─── Test coverage ───────────────────────────────────────────────
+coverage/
+.nyc_output/
